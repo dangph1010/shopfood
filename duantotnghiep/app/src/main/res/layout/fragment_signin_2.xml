@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Forgot password"
+        android:textSize="34dp"
+        android:textColor="@color/black"
+        android:layout_marginTop="49dp"
+        android:layout_marginLeft="45dp"/>
+
+    <TextView
+        android:layout_width="274dp"
+        android:layout_height="wrap_content"
+        android:text="Enter your email address and we will send you a reset instructions."
+        android:textSize="16dp"
+        android:layout_marginTop="26dp"
+        android:textColor="@color/text_color"
+        android:layout_marginLeft="47dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="EMAIL ADDRESS"
+        android:textColor="@color/text_color"
+        android:textSize="12dp"
+        android:layout_marginLeft="38dp"
+        android:layout_marginTop="40dp"/>
+
+    <EditText
+        android:id="@+id/edtEmailReset"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:textSize="16dp"
+        android:hint="Gmail, Yahoo, ...."
+        android:textColorHint="@color/text_color"
+        android:textColor="@color/text_color"
+        android:layout_marginHorizontal="38dp"
+        android:paddingHorizontal="18dp"
+        android:background="@drawable/edt_shape"
+        android:backgroundTint="@color/edt_background"
+        />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnResetPassSend"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/orange"
+        android:layout_marginTop="39dp"
+        android:layout_marginHorizontal="43dp"
+        android:text="reset password"
+        android:textColor="@color/white"
+        android:background="@drawable/login_btn_shape"
+        />
+
+<!--    <ProgressBar-->
+<!--        android:id="@+id/progressbar"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginTop="50dp"-->
+<!--        />-->
+
+
+
+
+</LinearLayout>

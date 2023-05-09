@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "742605994769",
+    "project_id": "yummyfood-image-storage",
+    "storage_bucket": "yummyfood-image-storage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742605994769:android:22417aad557e67e279aab0",
+        "android_client_info": {
+          "package_name": "com.example.duantotnghiep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742605994769-hscudrvj0qlgfj9a4fmcuhel1cdjaou3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnWGlnV3rHFYIGSgf9ypPCopgBLTzs4lU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742605994769-hscudrvj0qlgfj9a4fmcuhel1cdjaou3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

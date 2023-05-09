@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#57FFD841">
+    <ImageView
+        android:paddingVertical="5dp"
+        android:layout_marginVertical="15dp"
+        android:id="@+id/ivImgVoucher"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/item_voucher"
+        android:paddingHorizontal="20dp"
+        android:background="@drawable/line_right"/>
+    <TextView
+        android:id="@+id/tvNameVoucherItem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="YUMMY FOOD - 30% OFF ORDER FROM 3 US PRODUCTS"
+        android:layout_toRightOf="@id/ivImgVoucher"
+        android:maxWidth="250dp"
+        android:layout_marginTop="5dp"
+        android:paddingHorizontal="15dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"/>
+    <TextView
+        android:id="@+id/tvUseVoucherItem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Use"
+        android:textStyle="bold"
+        android:textColor="#BB3232"
+        android:textSize="20dp"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@id/tvNameVoucherItem"
+        android:paddingHorizontal="20dp"/>
+</RelativeLayout>

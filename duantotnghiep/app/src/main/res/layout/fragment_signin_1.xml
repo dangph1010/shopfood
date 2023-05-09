@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome to"
+        android:textSize="34dp"
+        android:textColor="@color/black"
+        android:layout_marginTop="49dp"
+        android:layout_marginLeft="45dp"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="24dp"
+        android:layout_marginLeft="47dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16dp"
+            android:textColor="@color/text_color"
+            android:text="Enter your Phone number or Email"/>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16dp"
+                android:textColor="@color/text_color"
+                android:text="for log in, Or "/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvCreateAccount"
+                android:textSize="16dp"
+                android:textColor="@color/orange"
+                android:text="Create new account."/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/edtEmailLogin"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginHorizontal="43dp"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/edt_shape"
+        android:backgroundTint="@color/edt_background"
+        android:drawableRight="@drawable/phone"
+        android:hint="Email"
+        android:paddingHorizontal="18dp"
+        android:textColor="@color/text_color"
+        android:textColorHint="@color/text_color"
+        android:textSize="16sp" />
+
+    <EditText
+        android:id="@+id/edtPasswordLogin"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="Password"
+        android:textSize="16sp"
+        android:inputType="textPassword"
+        android:textColorHint="@color/text_color"
+        android:textColor="@color/text_color"
+        android:layout_marginTop="14dp"
+        android:layout_marginHorizontal="43dp"
+        android:drawableRight="@drawable/eye"
+        android:paddingHorizontal="18dp"
+        android:background="@drawable/edt_shape"
+        android:backgroundTint="@color/edt_background"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvForgotPassword"
+        android:textColor="@color/text_color"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:text="Forgot password"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/orange"
+        android:layout_marginTop="48dp"
+        android:layout_marginHorizontal="43dp"
+        android:text="Login"
+        android:textColor="@color/white"
+        android:background="@drawable/login_btn_shape"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/text_color"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:text="-OR-"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/fb_color"
+        android:layout_marginTop="24dp"
+        android:layout_marginHorizontal="43dp"
+        android:text="Connect with facebook"
+        android:textColor="@color/white"
+        android:drawableLeft="@drawable/facebook"
+        android:paddingLeft="16dp"
+        android:paddingRight="44dp"
+        android:background="@drawable/login_btn_shape"
+        />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/google_color"
+        android:layout_marginTop="16dp"
+        android:layout_marginHorizontal="43dp"
+        android:text="Connect with google"
+        android:textColor="@color/white"
+        android:background="@drawable/login_btn_shape"
+        android:paddingLeft="16dp"
+        android:paddingRight="44dp"
+        android:drawableLeft="@drawable/google"
+        />
+</LinearLayout>

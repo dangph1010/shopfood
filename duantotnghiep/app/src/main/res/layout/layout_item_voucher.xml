@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="5dp"
+        app:cardCornerRadius="6dp">
+
+        <ImageView
+            android:id="@+id/imgVoucher"
+            android:layout_width="100dp"
+            android:layout_height="80dp"
+
+            android:scaleType="centerCrop"
+            android:src="@drawable/voucher3" />
+        <!--        android:paddingHorizontal="10dp"-->
+        <!--        android:paddingVertical="20dp"-->
+    </androidx.cardview.widget.CardView>
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="10dp">
+
+        <TextView
+            android:id="@+id/tvDateVoucher"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tvTitleVoucher"
+            android:layout_marginTop="12dp"
+            android:text="HSD đến: 12-12-2022"
+            android:textAlignment="textStart"
+            android:textColor="@color/text_color"
+            android:textSize="13dp" />
+
+
+        <TextView
+            android:id="@+id/tvTitleVoucher"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Voucher giảm giá 30%"
+            android:textColor="@color/blackhoidam"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+    </RelativeLayout>
+
+    <RadioButton
+        android:id="@+id/radioBtnVoucher"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginLeft="70dp"
+        android:layout_marginTop="24dp"
+        android:onClick="c" />
+
+</LinearLayout>

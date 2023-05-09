@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="5dp"
+    android:orientation="vertical"
+    tools:context=".UI.Activity.TermsAndConditionsActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/imgBack"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="18dp"
+            android:src="@drawable/img_5" />
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/tolbar"
+            app:titleMarginStart="40dp"
+            android:layout_marginTop="7dp"
+            app:title="Terms And Conditions"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        </androidx.appcompat.widget.Toolbar>
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="5dp"
+                android:text="TERMS AND CONDITIONS OF THE APPLICATION YUMMY FOOD"
+                android:textColor="@color/black"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"
+                android:text="Last updated on 11/5/2022"
+                android:textColor="@color/black"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="DOWNLOAD, INSTALL, ACCESS OR USE THIS YUMMY FOOD MOBILE APP (APPLICATION) MEANS YOU AGREE TO THE TERMS OF USE (TERMS) BECOME A NEGATIVE AGREEMENT BETWEEN YOU, AS PERSONALITY OR on behalf of an ORGANIZATION (USER OR YOU), AND GOOD FOOD ADJUSTING ACCESS AND USE. IF THE USER DOES NOT AGREE TO ALL OF THESE TERMS, THE USER MUST NOT USE THE APP AND MUST STOP USING IMMEDIATELY.THIS TERMS INCLUDES DISCLAIMER AND OTHER PROVISIONS ON LIMITATION OF OUR LEGAL LIABILITY TO USERS. "
+                android:textColor="@color/black"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="We reserve the right, in our sole discretion, to change or modify these Terms at any time and for any reason. Additional terms and conditions or documents may be posted on the Yummy Food website from time to time expressly set forth in these Terms. We will notify you of any changes by updating the Last Updated Date of these Terms and you waive any right to be notified specifically of each such change. You will be subject to, and will be deemed to have known and accepted, the changes and modifications in any revised Terms when you continue to use the Application after the date such revised Terms are posted. To use certain functions of our App, you will need to register for an account. You agree to keep your password confidential and will be responsible for all use of your account and password. We reserve the right to remove, take back, refuse or request a change to the username you choose if we determine, in our sole discretion, that the username is inappropriate or objectionable.
+            "
+                android:textColor="@color/black"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="  By using the Application, you represent and warrant that: (a) you create only one account; (b) all registration information you submit will be accurate, true, up-to-date and complete; (c) you will maintain the accuracy of such information and promptly update such registration information as necessary; (d) you have legal capacity and you agree to comply with these Terms; (e) you will maintain the security of your account by not sharing your password with others and restricting others' access to your account and mobile phone; (e) you will immediately notify Highlands Coffee if you discover or suspect any security breach in connection with the Application; and (f) is responsible for all activities that occur under your account and accepts all risks of unauthorized access."
+                android:textColor="@color/black"
+
+                android:textSize="16sp" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

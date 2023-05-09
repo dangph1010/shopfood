@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">duantotnghiep</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--    PayActivity-->
+    <string name="button_text">Order 2 dishes : 72.000đ</string>
+
+
+    <string-array name="phanloai">
+        <item>Type of information</item>
+        <item>Order</item>
+        <item>Delivery Service</item>
+        <item>Accounts and Members</item>
+        <item>Other</item>
+    </string-array>
+
+    <!--    <string name="fastfood_fragment">Fast Food Fragment</string>-->
+    <!--    <string name="softdrink_fragment">Soft Drink Fragment</string>-->
+    <!--    <string name="cake_fragment">Cake Fragment</string>-->
+    <!--    <string name="other_fragment">Other Fragment</string>-->
+
+
+</resources>

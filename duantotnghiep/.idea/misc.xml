@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Du an tot nghiep/duantotnghiep/app/src/main/res/drawable/default_button.xml" value="0.1" />
+        <entry key="..\:/Du an tot nghiep/duantotnghiep/app/src/main/res/layout/activity_forgot_password.xml" value="0.15579710144927536" />
+        <entry key="..\:/Du an tot nghiep/duantotnghiep/app/src/main/res/layout/activity_forgot_password_sent.xml" value="0.253125" />
+        <entry key="..\:/Du an tot nghiep/duantotnghiep/app/src/main/res/menu/bottom_nav.xml" value="0.1" />
+        <entry key="..\:/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/drawable-v24/round_back_blue_10.xml" value="0.1" />
+        <entry key="..\:/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/drawable-v24/round_back_white_1000.xml" value="0.1" />
+        <entry key="..\:/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1765" />
+        <entry key="..\:/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/drawable/round_back_brown_6.xml" value="0.1" />
+        <entry key="..\:/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/drawable/round_back_while_stroke_1000.xml" value="0.1" />
+        <entry key="..\:/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/activity_about_yummy.xml" value="0.259375" />
+        <entry key="..\:/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/activity_account_settings.xml" value="0.264" />
+        <entry key="..\:/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/activity_change_pass_settings.xml" value="0.259375" />
+        <entry key="..\:/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/activity_favourite.xml" value="0.259375" />
+        <entry key="..\:/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/activity_feed_back_and_support.xml" value="0.264" />
+        <entry key="..\:/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/activity_frequently_asked_questions.xml" value="0.264" />
+        <entry key="..\:/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/activity_onboarding.xml" value="0.20244565217391305" />
+        <entry key="..\:/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/activity_pay.xml" value="0.20244565217391305" />
+        <entry key="..\:/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/activity_profile_settings.xml" value="0.20244565217391305" />
+        <entry key="..\:/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/activity_search.xml" value="0.20244565217391305" />
+        <entry key="..\:/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/activity_signin.xml" value="0.20244565217391305" />
+        <entry key="..\:/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/activity_splash_screen.xml" value="0.20244565217391305" />
+        <entry key="..\:/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/activity_terms_and_conditions.xml" value="0.264" />
+        <entry key="..\:/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/activity_test.xml" value="0.20244565217391305" />
+        <entry key="..\:/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/activity_test_api.xml" value="0.20244565217391305" />
+        <entry key="..\:/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/activity_yummy_slide.xml" value="0.264" />
+        <entry key="..\:/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/activity_yummy_slide1.xml" value="0.259375" />
+        <entry key="..\:/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/activity_yummy_slide2.xml" value="0.259375" />
+        <entry key="..\:/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/fragment_home.xml" value="0.12613981762917933" />
+        <entry key="..\:/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/fragment_menu.xml" value="0.12613981762917933" />
+        <entry key="..\:/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/fragment_search.xml" value="0.20244565217391305" />
+        <entry key="..\:/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/fragment_signin_1.xml" value="0.20244565217391305" />
+        <entry key="..\:/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/fragment_signin_2.xml" value="0.20244565217391305" />
+        <entry key="..\:/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/fragment_signin_3.xml" value="0.20244565217391305" />
+        <entry key="..\:/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/fragment_signin_4.xml" value="0.20244565217391305" />
+        <entry key="..\:/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/fragment_signin_5.xml" value="0.20244565217391305" />
+        <entry key="..\:/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/fragment_soft_drink.xml" value="0.20244565217391305" />
+        <entry key="..\:/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/fragment_user.xml" value="0.264" />
+        <entry key="..\:/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/item_voucher.xml" value="0.259375" />
+        <entry key="..\:/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/layout_food_detail_item.xml" value="0.259375" />
+        <entry key="..\:/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/layout_items_menu.xml" value="0.13903985507246377" />
+        <entry key="..\:/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/rate_us_dialog.xml" value="0.264" />
+        <entry key="..\:/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/menu/bottom_nav.xml" value="0.259375" />
+        <entry key="..\:/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/menu/menuofsearch.xml" value="0.259375" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/drawable/edt_shape.xml" value="0.2205" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/activity_about_yummy.xml" value="0.3671875" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/activity_account_settings.xml" value="0.371875" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/activity_card.xml" value="0.19166666666666668" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/activity_change_pass_settings.xml" value="0.371875" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/activity_favourite.xml" value="0.33" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/activity_feed_back_and_support.xml" value="0.36594202898550726" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/activity_forgot_password.xml" value="0.5" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/activity_forgot_password_sent.xml" value="0.5" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/activity_frequently_asked_questions.xml" value="0.371875" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/activity_home.xml" value="0.33" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/activity_local_card.xml" value="0.33" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/activity_main.xml" value="0.371875" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/activity_onboarding.xml" value="0.25" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/activity_order.xml" value="0.36594202898550726" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/activity_pay.xml" value="0.5" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/activity_payment_method.xml" value="0.33" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/activity_search.xml" value="0.5" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/activity_signin.xml" value="0.5" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/activity_splash_screen.xml" value="0.33" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/activity_voucher.xml" value="0.36594202898550726" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/activity_yummy_slide.xml" value="0.3663949275362319" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/fragment_cake.xml" value="0.371875" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/fragment_cart.xml" value="0.371875" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/fragment_cart_2.xml" value="0.3671875" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/fragment_fast_food.xml" value="0.371875" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/fragment_menu.xml" value="0.371875" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/fragment_onboarding1.xml" value="0.371875" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/fragment_onboarding2.xml" value="0.1" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/fragment_onboarding3.xml" value="0.2886178861788618" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/fragment_other.xml" value="0.371875" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/fragment_search.xml" value="0.3663949275362319" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/fragment_signin_1.xml" value="0.371875" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/fragment_signin_2.xml" value="0.371875" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/fragment_signin_3.xml" value="0.371875" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/fragment_signin_4.xml" value="0.371875" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/fragment_signin_5.xml" value="0.371875" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/fragment_soft_drink.xml" value="0.371875" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/fragment_testsearch.xml" value="0.3663949275362319" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/fragment_user.xml" value="0.371875" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/item_voucher.xml" value="0.36594202898550726" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/layout_food_detail_item.xml" value="0.371875" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/layout_item_history_detail.xml" value="0.371875" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/layout_items_cart.xml" value="0.33" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/layout_items_comment.xml" value="0.33" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/layout_items_home.xml" value="0.371875" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/layout_items_home_popular.xml" value="0.371875" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/layout_items_menu.xml" value="0.371875" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/layout_items_pay.xml" value="0.371875" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/layout_items_search.xml" value="0.35054347826086957" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/mynavgraph.xml" value="0.16983695652173914" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/layout/slide_item_container.xml" value="0.371875" />
+        <entry key="..\:/School/FPOLY/DuAnTotNghiep/duantotnghiep/app/src/main/res/menu/bottom_nav.xml" value="0.19166666666666668" />
+        <entry key="..\:/Taitoxic/study/duan1/duantotnghiep/app/src/main/res/drawable/background_circle_orange.xml" value="0.12" />
+        <entry key="..\:/Taitoxic/study/duan1/duantotnghiep/app/src/main/res/layout/activity_main.xml" value="0.2115036231884058" />
+        <entry key="..\:/Taitoxic/study/duan1/duantotnghiep/app/src/main/res/layout/activity_onboarding.xml" value="0.2115036231884058" />
+        <entry key="..\:/Taitoxic/study/duan1/duantotnghiep/app/src/main/res/layout/activity_search.xml" value="0.25" />
+        <entry key="..\:/Taitoxic/study/duan1/duantotnghiep/app/src/main/res/layout/activity_splash_screen.xml" value="0.2115036231884058" />
+        <entry key="..\:/Taitoxic/study/duan1/duantotnghiep/app/src/main/res/layout/fragment_onboarding1.xml" value="0.25" />
+        <entry key="..\:/Taitoxic/study/duan1/duantotnghiep/app/src/main/res/layout/fragment_onboarding2.xml" value="0.2115036231884058" />
+        <entry key="..\:/Taitoxic/study/duan1/duantotnghiep/app/src/main/res/layout/fragment_onboarding3.xml" value="0.2115036231884058" />
+        <entry key="..\:/Taitoxic/study/duan1/duantotnghiep/app/src/main/res/layout/splash_screen.xml" value="0.2115036231884058" />
+        <entry key="..\:/Taitoxic/study/duan1/duantotnghiep/app/src/main/res/layout/wc1.xml" value="0.16" />
+        <entry key="..\:/Taitoxic/study/duan1/duantotnghiep/app/src/main/res/layout/wc2.xml" value="0.25" />
+        <entry key="..\:/Taitoxic/study/duan1/duantotnghiep/app/src/main/res/layout/welcome.xml" value="0.2115036231884058" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.1785" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/drawable/ic_baseline_navigate_next_24.xml" value="0.2015" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/layout/activity_about_yummy.xml" value="0.20520833333333333" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/layout/activity_account_settings.xml" value="0.20520833333333333" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/layout/activity_forgot_password.xml" value="0.5" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/layout/activity_frequently_asked_questions.xml" value="0.3302083333333333" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/layout/activity_main.xml" value="0.3302083333333333" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/layout/activity_onboarding.xml" value="0.25416666666666665" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/layout/activity_pay.xml" value="0.3302083333333333" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/layout/activity_profile_settings.xml" value="0.20520833333333333" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/layout/activity_signin.xml" value="0.264" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/layout/activity_splash_screen.xml" value="0.22871376811594202" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/layout/activity_terms_and_conditions.xml" value="0.3302083333333333" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/layout/activity_test_api.xml" value="0.3302083333333333" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/layout/activity_voucher.xml" value="0.3302083333333333" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/layout/fragment_cake.xml" value="0.3302083333333333" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/layout/fragment_cart.xml" value="0.22871376811594202" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/layout/fragment_cart_2.xml" value="0.3302083333333333" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/layout/fragment_fast_food.xml" value="0.3302083333333333" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/layout/fragment_home.xml" value="0.18645833333333334" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/layout/fragment_menu.xml" value="0.3302083333333333" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/layout/fragment_onboarding2.xml" value="0.3302083333333333" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/layout/fragment_onboarding3.xml" value="0.3302083333333333" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/layout/fragment_order_history.xml" value="0.33" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/layout/fragment_other.xml" value="0.3302083333333333" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/layout/fragment_search.xml" value="0.3302083333333333" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/layout/fragment_signin_1.xml" value="0.12360688956433637" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/layout/fragment_signin_2.xml" value="0.264" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/layout/fragment_signin_3.xml" value="0.264" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/layout/fragment_signin_4.xml" value="0.264" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/layout/fragment_signin_5.xml" value="0.25416666666666665" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/layout/fragment_soft_drink.xml" value="0.3302083333333333" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/layout/fragment_testsearch.xml" value="0.2640625" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/layout/fragment_user.xml" value="0.16058763931104356" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/layout/item_voucher.xml" value="0.24048913043478262" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/layout/layout_food_detail_item.xml" value="0.24048913043478262" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/layout/layout_item_history.xml" value="0.25" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/layout/layout_item_history_detail.xml" value="0.33" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/layout/layout_items_cart.xml" value="0.24048913043478262" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/layout/layout_items_home.xml" value="0.24048913043478262" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/layout/layout_items_home_popular.xml" value="0.24048913043478262" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/layout/layout_items_menu.xml" value="0.24048913043478262" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/layout/layout_items_pay.xml" value="0.24048913043478262" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/layout/rate_us_dialog.xml" value="0.24048913043478262" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/layout/slide_item_container.xml" value="0.24048913043478262" />
+        <entry key="..\:/user/ps18197/GitHub/duantotnghiep/app/src/main/res/menu/bottom_nav.xml" value="0.2682291666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.33" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

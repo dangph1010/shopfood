@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="16dp"
+    >
+
+    <androidx.viewpager.widget.ViewPager
+        android:layout_marginTop="50dp"
+        android:id="@+id/viewPager"
+        android:layout_width="match_parent"
+        android:layout_height="500dp" />
+
+    <LinearLayout
+        android:id="@+id/layout_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/viewPager"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <me.relex.circleindicator.CircleIndicator
+
+            android:id="@+id/circleIndicator"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            app:ci_drawable="@drawable/background_circle_orange"
+
+            tools:ignore="MissingConstraints">
+
+        </me.relex.circleindicator.CircleIndicator>
+
+        <LinearLayout
+            android:id="@+id/layout_next"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical">
+
+
+            <Button
+                android:id="@+id/btn_start"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:text="SIGN UP/ LOG IN"
+                android:textColor="@color/white"
+
+                />
+
+<!--            <TextView-->
+<!--                android:layout_marginTop="10dp"-->
+<!--                android:id="@+id/tv_skip"-->
+<!--                android:layout_width="40dp"-->
+<!--                android:layout_height="match_parent"-->
+<!--                android:layout_marginLeft="6dp"-->
+<!--                android:gravity="center"-->
+
+<!--                android:text="Skip" />-->
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>

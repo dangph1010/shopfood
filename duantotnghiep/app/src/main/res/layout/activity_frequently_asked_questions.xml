@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".UI.Activity.FrequentlyAskedQuestionsActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/imgBack"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:src="@drawable/img_5"
+            android:layout_margin="18dp"/>
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/tolbar"
+            app:titleMarginStart="34dp"
+            android:layout_marginTop="2dp"
+            app:title="Frequently Asked Questions"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        </androidx.appcompat.widget.Toolbar>
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:orientation="vertical">
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="22dp"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="17dp"
+                android:layout_marginTop="2dp"
+                android:src="@drawable/img_7" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="8dp"
+                android:text="About The App"
+                android:textSize="17sp"
+                android:textColor="@color/black"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="28dp"
+            android:layout_marginTop="16dp"
+            android:orientation="horizontal"
+            android:background="@color/white">
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="How to register for YummyFood app?"
+                android:textSize="14sp"
+                android:textColor="@color/black"/>
+
+            <ImageView
+                android:id="@+id/ivCachDky"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_marginLeft="95dp"
+                android:src="@drawable/img_8" />
+
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tvDangKy"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="28dp"
+            android:paddingRight="16dp"
+            android:text="It's easy, follow it. Open the Yummy Food app, press the button. Then enter your phone number or Email for the first time, OTP code will be sent to your device, enter the OTP code and press register again."
+            android:textSize="14sp"
+            android:visibility="gone"
+            android:background="@color/white"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="28dp"
+            android:layout_marginTop="6dp"
+            android:orientation="horizontal"
+            android:background="@color/white">
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="What if I don't receive the OTP when I sign up for\n the Yummy Food app?"
+                android:textSize="14sp"
+                android:textColor="@color/black"/>
+
+            <ImageView
+                android:id="@+id/ivLTN"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_marginTop="2dp"
+                android:layout_marginLeft="20dp"
+                android:src="@drawable/img_8" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tvLTN"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="28dp"
+            android:text="Don't panic, double check your phone number and email and make sure the network connection is stable. Then at the registration confirmation screen, ask the system to resend the OTP code."
+            android:textSize="14sp"
+            android:paddingRight="16dp"
+            android:visibility="gone"
+            android:background="@color/white"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="22dp"
+            android:layout_marginTop="16dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="17dp"
+                android:layout_marginTop="2dp"
+                android:src="@drawable/img_12" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="8dp"
+                android:text="About Order"
+                android:textSize="17sp"
+                android:textColor="@color/black"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="28dp"
+            android:layout_marginTop="16dp"
+            android:orientation="horizontal"
+            android:background="@color/white">
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="How to check order status?"
+                android:textSize="14sp"
+                android:textColor="@color/black" />
+
+            <ImageView
+                android:id="@+id/ivTTDH"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_marginLeft="158dp"
+                android:src="@drawable/img_8" />
+
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tvTTDH"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="28dp"
+            android:text="Rest assured, after placing your order, you can check your order in Activity - Delivering"
+            android:textSize="14sp"
+            android:paddingRight="16dp"
+            android:visibility="gone"
+            android:background="@color/white"/>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="28dp"
+            android:layout_marginTop="6dp"
+            android:orientation="horizontal"
+            android:background="@color/white">
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Why is the app asking for my location?"
+                android:textSize="14sp"
+                android:textColor="@color/black" />
+
+            <ImageView
+                android:id="@+id/ivViTri"
+                android:layout_width="20dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="89dp"
+                android:src="@drawable/img_8" />
+
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tvViTri"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="28dp"
+            android:paddingRight="16dp"
+            android:text="Location information is used by Yummy Food to help you place your order quickly."
+            android:textSize="14sp"
+
+            android:visibility="gone"
+
+            android:background="@color/white"/>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="28dp"
+            android:layout_marginTop="6dp"
+            android:orientation="horizontal"
+            android:background="@color/white">
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Is it possible to cancel an order?"
+                android:textSize="14sp"
+                android:textColor="@color/black" />
+
+            <ImageView
+                android:id="@+id/ivHuyD"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_marginLeft="127.5dp"
+                android:src="@drawable/img_8" />
+
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tvHuyD"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="28dp"
+            android:text="Absolutely, you can cancel your order if something is wrong."
+            android:textSize="14sp"
+            android:visibility="gone"
+            android:paddingRight="16dp"
+            android:background="@color/white"/>
+
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="22dp"
+            android:layout_marginTop="16dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="17dp"
+                android:layout_marginTop="2dp"
+                android:src="@drawable/img_11" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="8dp"
+                android:text="About Payment"
+                android:textSize="17sp"
+                android:textColor="@color/black"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="28dp"
+            android:layout_marginTop="16dp"
+            android:orientation="horizontal"
+            android:background="@color/white">
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="How to get a refund"
+                android:textSize="14sp"
+                android:textColor="@color/black" />
+
+            <ImageView
+                android:id="@+id/ivHoanTien"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_marginLeft="205dp"
+                android:src="@drawable/img_8" />
+
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tvHoanTien"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="28dp"
+            android:paddingRight="16dp"
+            android:text="If you have a refund request, contact Yummy Food support in see more, feedback and support."
+            android:textSize="14sp"
+            android:visibility="gone"
+            android:background="@color/white"/>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="28dp"
+            android:layout_marginTop="6dp"
+            android:orientation="horizontal"
+            android:background="@color/white">
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="What should I do when I have paid by card but the\norder is not created?"
+                android:textSize="14sp"
+                android:textColor="@color/black" />
+
+            <ImageView
+                android:id="@+id/ivDonHangO"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_marginLeft="14.5dp"
+                android:layout_marginTop="6dp"
+                android:src="@drawable/img_8" />
+
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tvDonHangO"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="28dp"
+            android:paddingRight="16dp"
+            android:text="In the More section, click feedback and support to contact Yummy Food."
+            android:textSize="14sp"
+            android:visibility="gone"
+            android:background="@color/white"/>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="28dp"
+            android:layout_marginTop="6dp"
+            android:orientation="horizontal"
+            android:background="@color/white">
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="How many payment methods are there in the\nYummy Food?"
+                android:textSize="14sp"
+                android:textColor="@color/black" />
+
+            <ImageView
+                android:id="@+id/ivPTTT"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_marginLeft="44dp"
+                android:layout_marginTop="5dp"
+                android:src="@drawable/img_8" />
+
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tvPTTT"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="28dp"
+            android:paddingRight="16dp"
+            android:text="1. Payment on receipt\n2. Pay with Momo\n3. Payment by ATM/Credit Card."
+            android:textSize="14sp"
+            android:visibility="gone"
+            android:background="@color/white"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="22dp"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="17dp"
+                android:layout_marginTop="2dp"
+                android:src="@drawable/img_13" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="8dp"
+                android:text="About Members"
+                android:textSize="17sp"
+                android:textColor="@color/black"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="28dp"
+            android:layout_marginTop="16dp"
+            android:orientation="horizontal"
+            android:background="@color/white">
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="How to become an employee of Yummy Food?"
+                android:textSize="14sp"
+                android:textColor="@color/black" />
+
+            <ImageView
+                android:id="@+id/ivTTTV"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_marginLeft="37dp"
+                android:src="@drawable/img_8" />
+
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tvTTTV"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="28dp"
+            android:paddingRight="16dp"
+            android:text="Once you have successfully registered your application, you are already a member of Yummy Food and you are now Silver."
+            android:textSize="14sp"
+            android:visibility="gone"
+            android:background="@color/white"/>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="28dp"
+            android:layout_marginTop="6dp"
+            android:orientation="horizontal"
+            android:background="@color/white">
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="What are the benefits of becoming a member of\nYummy Food?"
+                android:textSize="14sp"
+                android:textColor="@color/black" />
+
+            <ImageView
+                android:id="@+id/ivLoiIch"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="24.3dp"
+                android:src="@drawable/img_8" />
+
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tvLoiIch"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="28dp"
+            android:paddingRight="16dp"
+            android:text="You can accumulate drip by ordering food. For every 100 drip you will get 1 free drink."
+            android:textSize="14sp"
+            android:visibility="gone"
+            android:background="@color/white"/>
+    </LinearLayout>
+    </ScrollView>
+</LinearLayout>
